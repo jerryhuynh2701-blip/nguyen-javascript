@@ -1,0 +1,9 @@
+let text1 = "Call Poly Pomona"
+
+
+let course = "javaSCRipt"
+
+let courseNameFormatted = course[0].toUpperCase +course.slice(1).toLocaleLowerCase;
+console.log(courseNameFormatted);
+
+
